@@ -14,4 +14,3 @@
   <img src="https://github.com/KLYCHUB/flutter_spotify_clone_app_ui/blob/main/ss/6.png" height="480",width="270">
   &nbsp;
 </div>
-
